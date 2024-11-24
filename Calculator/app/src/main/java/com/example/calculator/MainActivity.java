@@ -18,8 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private String equation = "";
     private double result = 0;
     private String currentOperator = "";
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
